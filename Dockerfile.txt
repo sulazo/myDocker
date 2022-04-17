@@ -1,4 +1,0 @@
-FROM 
-ENV
-RUN COPY
-CMD
